@@ -2,27 +2,27 @@ import seva from '../assets/svg/projects/seva.png'
 export const blogData = [
     {
         id: 1,
-        title: 'Seva The Food Sharing',
+        title: '',
         description: 'We have made Seva The food sharing website as project of our construct week at Masai School.',
         date: 'Nov 13, 2021',
-        image: 'https://user-images.githubusercontent.com/76626095/141648665-be7044d1-4696-44ab-9c40-24bfe527ddde.png',
-        url: 'https://medium.com/@rohitkrrt/seva-the-food-sharing-64fe51a8dccc'
+        image: 'https://user-imae7044d1-4696-44ab-9c40-24bfe527ddde.png',
+        url: 'https://medium.4fe51a8dccc'
     },
     {
         id: 2,
         title: 'Purplle clone',
         description: 'Cloning of purplle.com website in just 6 days using HTML ,CSS and JS',
         date: 'Aug 29, 2021',
-        image: 'https://miro.medium.com/max/1400/1*raI92y3S6aFYZGna4JxPbg.png',
-        url: 'https://medium.com/@shaistasulthana78/cloning-of-purplle-com-website-in-just-6-days-using-html-css-and-js-845ce38f71cc'
+        image: 'https://miro.S6aFYZGna4JxPbg.png',
+        url: 'https://medium.com/@t-6-days-using-html-css-and-js-845ce38f71cc'
     },
     {
         id: 3,
-        title: 'Purplle clone using Backend',
-        description: 'purplle.com is Ecommerce website which sells cosmetic produtcs online. Through this website we can order any cosmetics related to men and women are available in the website.',
+        title: '',
+        description: 'purplle.com ise. Through this website we can order any cosmetics related to men and women are available in the website.',
         date: 'Oct 03, 2020',
-        image: 'https://miro.medium.com/max/1400/1*raI92y3S6aFYZGna4JxPbg.png',
-        url: 'https://medium.com/@shaistasulthana78/cloning-purplle-com-website-fda2c3f3914c'
+        image: 'https://mir4JxPbg.png',
+        url: 'https://medium.com/@s-website-fda2c3f3914c'
     },
     // {
     //     id: 4,
