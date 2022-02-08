@@ -184,10 +184,10 @@ function Contacts() {
     e.preventDefault(e);
     emailjs
       .sendForm(
-        "service_jn310cg",
-        "template_rm2qpr5",
+        "service_wvbx8gd",
+        "template_tskh2nv",
         e.target,
-        "user_LG6mal69culCVM0XDcodG"
+        "user_uX4rHriHkfalLMHJDwybh"
       )
       .then((res) => {
         alert("Response sent. We will get back to you soon");
